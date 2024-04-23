@@ -3,7 +3,6 @@
 
 - 🔭 Estudante de Ciência da Computação;
 - 🌱 Estudando Data Science;
-- 😄 Pronouns: Qualquer Pronome
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Edgarmls1&show_icons=true&theme=dark" />
