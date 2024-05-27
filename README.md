@@ -17,6 +17,7 @@
 ![Static Badge](https://img.shields.io/badge/java-%23DD0700?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/r-%233776AB?style=for-the-badge&logo=r&logoColor=white)
 
 - 🖱️ Sistemas operacionais:
 
