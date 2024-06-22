@@ -24,12 +24,7 @@
 ![Static Badge](https://img.shields.io/badge/windows-%230078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Edgarmls1&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edgarmls1&layout=donut&theme=dark" />
-</a>
+
 
 ##
  
