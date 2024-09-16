@@ -7,8 +7,7 @@
   
     Português || 
     Español || 
-    English || 
-    Deutsch
+    English
 
 ##
 - 🎓 Lingugens que domino:
