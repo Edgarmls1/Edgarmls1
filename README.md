@@ -22,6 +22,7 @@
 
 ![Static Badge](https://img.shields.io/badge/windows-%230078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Static Badge](https://img.shields.io/badge/archlinux-%230078D4?style=for-the-badge)
 
 
 
