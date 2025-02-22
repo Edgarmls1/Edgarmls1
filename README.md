@@ -1,7 +1,6 @@
-# Olá, Eu Sou Edgar Salazar
+# Hi I am Edgar Salazar
 
 * 🔭 Computer Science (5/8);
-* 📖 Estudando Data Science;
 * 🌎 Idiomas:
     * Portuguese (Native)
     * English (Advanced)
