@@ -22,7 +22,7 @@
 | **IDE's** | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=code&logoColor=white) ![Static Badge](https://img.shields.io/badge/neovim-%2347A248?style=for-the-badge&logo=neovim&logoColor=white) |
 | **Team Work** | ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=050036) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)           |
 | **Containerization** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| **In Progress** | ![Static Badge](https://img.shields.io/badge/bash-%23DD0700?style=for-the-badge&logo=shell&logoColor=white) ![Static Badge](https://img.shields.io/badge/c-%230078D4?style=for-the-badge&logo=c&logoColor=white) ![rust](https://img.shields.io/badge/rust-%23F05032?style=for-the-badge&logo=rust&logoColor=white) | 
+| **In Progress** | ![Static Badge](https://img.shields.io/badge/bash-%23DD0700?style=for-the-badge&logo=shell&logoColor=white) ![Static Badge](https://img.shields.io/badge/go-%230078D4?style=for-the-badge&logo=go&logoColor=white) ![rust](https://img.shields.io/badge/rust-%23F05032?style=for-the-badge&logo=rust&logoColor=white) | 
 
 ##
 ```
